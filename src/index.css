@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.home .card img{
+  position: absolute;
+  opacity:0.9;
+  left:-60px;
+  top:20px;
+  width:150px;
+  height:150px;
+}
+.home .card{
+  overflow: hidden;
+  padding-left:100px;
+}
